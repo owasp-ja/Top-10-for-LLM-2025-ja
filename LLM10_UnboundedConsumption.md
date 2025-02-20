@@ -42,7 +42,7 @@ LLM のコンテキスト・ウィンドウを超える入力を送信し続け�
 
 入力が妥当なサイズの制限を超えないように、厳密な入力検証を実施します。
 
-#### 2. ロジットとログプロブの露出を制限する
+#### 2. Logits および Logprobs の露出を制限する
 
 API レスポンス中の `logit_bias` と `logprobs` の公開を制限または難読化します。詳細な確率を明らかにせず、必要な情報のみを提供します。
 
@@ -72,9 +72,9 @@ LLM のネットワークリソース、内部サービス、API へのアクセ
 
 LLM 出力を埋め込み、不正使用を検出するための電子透かしフレームワークを実装します。
 
-#### 9. 優雅な劣化
+#### 9. システムの段階的な機能低下
 
-高負荷の下で優雅に劣化するようにシステムを設計し、完全な故障ではなく部分的な機能を維持します。
+高負荷の下で段階的に機能が制限されるようにシステムを設計し、完全に故障させるのではなく部分的な機能を維持します。
 
 #### 10. 待ち行列アクションを制限し、ロバストに拡張する
 
@@ -151,17 +151,3 @@ LLM 出力を埋め込み、不正使用を検出するための電子透かし�
 - [OWASP 機械学習セキュリティトップ 10- ML05:2023 モデル盗難](https://owasp.org/www-project-machine-learning-security-top-10/docs/ML05_2023-Model_Theft.html) **OWASP ML Top 10**
 - [API4:2023 - 無制限のリソース消費](https://owasp.org/API-Security/editions/2023/en/0xa4-unrestricted-resource-consumption/) **OWASP ウェブアプリケーション Top 10**
 - [OWASP リソース管理](https://owasp.org/www-project-secure-coding-practices-quick-reference-guide/) **OWASP セキュアコーディングプラクティス**
-
-### 日本語版の作成
-
-Yuki Kashiwada
-
-### Primary Localizers
-
-###@ Teresa Tsukiji (築地　テレサ)
-Japanese Localization Co-Lead
-LinkedIn: [https://www.linkedin.com/in/teresatsukiji/](https://www.linkedin.com/in/teresatsukiji/)
-
-###@ Yuki Kashiwada (柏田　祐樹)
-Japanese Localization Co-Lead
-LinkedIn: [https://www.linkedin.com/in/yuki-kashiwada/](https://www.linkedin.com/in/yuki-kashiwada/)
