@@ -1,5 +1,41 @@
 # OWASP PDF 4 - Japanese Localization Repository
 
+## How to Review and Commit Changes / レビューとコミット方法
+
+To ensure clarity in the review process, please use one of the following methods to make your changes visible:
+
+### ✅ **For GitHub Users (Recommended)**
+
+1. **Fork this repository**: [OWASP PDF 4 - Japanese Localization](https://github.com/dev-shlck/owasp_pdf_4_ja)
+2. **Make your edits** to the relevant Markdown files.
+3. **Create a Pull Request** to the main repository for review.
+
+### ✅ **For Non-GitHub Users**
+
+1. **Copy the text** from the relevant Markdown file into **Microsoft Word** or another text editor that supports tracking changes.
+2. **Use "Track Changes"** to mark your edits and suggestions.
+3. **Share the edited file** by posting in the Slack channel: `#team-llm-translations-ja` with a message indicating that you’ve completed your review.
+
+---
+
+## レビューとコミット方法
+
+レビューの際、変更箇所が分かりやすくなるよう、以下のいずれかの方法でお願いします。
+
+### ✅ **GitHub に慣れている場合（推奨）**
+
+1. **このリポジトリをフォーク**してください：[OWASP PDF 4 - Japanese Localization](https://github.com/dev-shlck/owasp_pdf_4_ja)
+2. **該当する Markdown ファイルを編集**します。
+3. **Pull Request を作成**してレビューを依頼してください。
+
+### ✅ **GitHub に慣れていない場合**
+
+1. **該当する Markdown ファイルのテキストをコピー**し、**Microsoft Word**などの編集履歴機能が使えるソフトに貼り付けます。
+2. **「変更履歴を記録」機能を使って修正**を行います。
+3. **修正ファイルを Slack の `#team-llm-translations-ja` チャンネルに投稿**し、レビューが完了した旨をお知らせください。
+
+---
+
 ## Overview
 
 This repository contains the Japanese localization of OWASP PDF 4, specifically focusing on the Markdown files required to generate the localized PDF document. The goal of this project is to provide a Japanese-translated version of the OWASP PDF 4 documentation, making it accessible to a broader audience.
@@ -56,10 +92,12 @@ If you are interested in contributing to this project, you can:
 - Help with additional formatting and verification
 - Participate in discussions in the `#owasp-pdf-users` Slack channel
 
-## Authors
+## Authors & Reviewers
 
-- [@teresa-sherlock](https://github.com/teresa-sherlock)
-- [@javasparrows](https://github.com/javasparrows)
+- [Teresa Tsukiji](https://www.linkedin.com/in/teresatsukiji/)
+- [Yuki Kashiwada](https://www.linkedin.com/in/yuki-kashiwada/)
+- [Riotaro Okada](https://www.linkedin.com/in/riotaro/)
+- Takahiro Aoyama
 
 ## Contact
 
