@@ -40,13 +40,13 @@ LinkedIn: https://www.linkedin.com/in/teresatsukiji/
 Japanese Localization Co-Lead
 LinkedIn: https://www.linkedin.com/in/yuki-kashiwada/
 
-###@ Takahiro Aoyama (青山 )
-Japanese Localization Reviewer
-LinkedIn:
-
 ###@ Riotaro Okada (岡田 良太郎)
 Japanese Localization Reviewer
 LinkedIn: https://www.linkedin.com/in/riotaro/
+
+###@ Takahiro Aoyama (青山 )
+Japanese Localization Reviewer
+LinkedIn:
 
 ### About this translation
 
