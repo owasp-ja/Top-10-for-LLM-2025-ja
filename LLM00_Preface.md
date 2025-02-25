@@ -44,7 +44,7 @@ LinkedIn: https://www.linkedin.com/in/yuki-kashiwada/
 Japanese Localization Reviewer
 LinkedIn:
 
-###@ xxx Okada (岡田 良太郎)
+###@ Riotaro Okada (岡田 良太郎)
 Japanese Localization Reviewer
 LinkedIn: https://www.linkedin.com/in/riotaro/
 
