@@ -30,6 +30,11 @@ Technical Lead & Vulnerability Entries Lead
 OWASP Top 10 for Large Language Model Applications
 LinkedIn: https://www.linkedin.com/in/adamdawson0/
 
+###@ Talesh Seeparsan
+
+Translation Lead, OWASP Top 10 for AI Applications LLM
+LinkedIn: https://www.linkedin.com/in/talesh/
+
 ### Japanese Translation Team
 
 ###@ Teresa Tsukiji (築地 テレサ)
@@ -44,15 +49,10 @@ LinkedIn: https://www.linkedin.com/in/yuki-kashiwada/
 Japanese Localization Reviewer
 LinkedIn: https://www.linkedin.com/in/riotaro/
 
-###@ Takahiro Aoyama (青山 )
+###@ Takahiro Aoyama
 Japanese Localization Reviewer
-LinkedIn:
+LinkedIn: https://www.linkedin.com/in/takahiro-aoyama-323a3a13/
 
-### About this translation
+### この翻訳について
 
-Recognizing the technical and critical nature of the OWASP Top 10 for Large Language Model Applications, we consciously chose to employ only human translators in the creation of this translation. The translators listed above not only have a deep technical knowledge of the original content, but also the fluency required to make this translation a success.
-
-#### Talesh Seeparsan
-
-Translation Lead, OWASP Top 10 for AI Applications LLM
-LinkedIn: https://www.linkedin.com/in/talesh/
+OWASP Top 10 for Large Language Model Applications は、技術的かつ重要な性質を持つドキュメントであると私たちは認識しています。そのため、この翻訳版の作成にあたっては意識的に人間の翻訳者のみを起用しました。上記の翻訳者たちは、原文に関する深い技術的知識だけでなく、この翻訳を成功させるために必要とされる日本語の流暢さも兼ね備えています。
